@@ -1,30 +1,20 @@
-# artists-network
+# Artist Network
 
-> A Vue.js project
+> アーティストをディグろう
+
+https://github.com/saccho/artists-network-api
+と連動しています．
 
 ## Build Setup
 
 ``` bash
+$ git clone https://github.com/saccho/artists-network-front
+$ cd artists-network-front
+
 # install dependencies
-npm install
-
+$ npm install
 # serve with hot reload at localhost:8080
-npm run dev
-
+$ npm run dev
 # build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
+$ npm run build
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
